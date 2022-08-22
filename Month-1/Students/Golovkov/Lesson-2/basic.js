@@ -5,6 +5,7 @@ let name1 = 70
 let name2 = true
 let num = 4
 
+// такое написание конструкции не верно. Проверьте ее выполнение. И перепешите с elseif
 if(name1 > name && name1>100){console.log('готово')}
 else(console.log('не готово'))
 if(name1 > name || name1>30){console.log('готово')}

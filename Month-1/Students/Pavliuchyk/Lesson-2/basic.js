@@ -154,7 +154,7 @@ else if (month % 1 !== 0){
 //task 4 вариант 2
 
 let month2 = 4.5;
-
+ // Тут можно сократить конструкцию группированием
 switch (month2) {
     case 1: console.log('Зима');
     break;

@@ -36,7 +36,7 @@ let month = 4;
         console.log ('осень');
     };
 
-
+// Исправьте ошибки.
 
     let browser = 'Edge';
     if (browser == 'Edge'){
